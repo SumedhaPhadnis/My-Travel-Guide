@@ -15,7 +15,10 @@ p{
     display: inline-block;
     font-size: 20px;
     border-radius: 2cm; 
+    box-shadow:1px 1px 4px #000
 }
 .button:hover{
       background-color: indigo;
+      transform: scale(0.9);
+      transition: 0.5s;
 }

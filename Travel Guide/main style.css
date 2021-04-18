@@ -37,15 +37,21 @@ div.hi{
 .button {
     background-color:black;
     color: white;
-    border: 2px solid white;
-    padding: 10px 24px;
+    border: 2px solid white ;
+    padding: 12px 24px;
     text-align: center;
     display: inline-block;
-    font-size: 20px;
+    font-size: 24px;
     border-radius: 2cm; 
+    box-shadow:1px 1px 4px #000;
+    margin-left: 0.5cm;
+    
+
   }
   .button:hover{
-      background-color: indigo;
+      background-color: rgb(46, 6, 75);
+      transform: scale(0.9);
+      transition: 0.5s;
   }
 
     
