@@ -1,8 +1,15 @@
+html{
+    background-color: rgb(218, 193, 241);
+    border: 10px solid black;
+}
 h1{
     background-color: black;
-    color: blanchedalmond;
+    color: white;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 0.5cm;
+    padding-bottom: 0.5cm;
+    font-size: 48px ;
 }
 div.one{
     font-family: 'Times New Roman';

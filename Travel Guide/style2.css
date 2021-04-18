@@ -1,0 +1,21 @@
+html{
+    background-color: rgb(218, 193, 241);
+    border: 10px solid black;}
+p{
+    font-family: 'Times New Roman';
+    font-size:30px; 
+    font-style: italic;
+}
+.button{
+    background-color:black;
+    color: white;
+    border: 2px solid white;
+    padding: 10px 24px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 2cm; 
+}
+.button:hover{
+      background-color: indigo;
+}
